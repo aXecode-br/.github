@@ -1,7 +1,7 @@
 # aXecode
 
 <p align="center">
-  <img src="../images/aXecode_logo.png" alt="aXecode Logo" width="175" style="border-radius: 50%;">
+  <img src="./aXeCode_logo.png" alt="aXecode Logo" width="175" style="border-radius: 50%;">
 </p>
 
 Bem-vindo à organização **aXecode**!
