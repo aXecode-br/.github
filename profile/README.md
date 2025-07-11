@@ -1,9 +1,5 @@
 # aXecode
 
-<p align="center">
-  <img src="./aXecode_logo_circle.png" alt="aXecode Logo" width="175">
-</p>
-
 Bem-vindo à organização **aXecode**!
 
 📧 Contato: [axecode.br@gmail.com](mailto:axecode.br@gmail.com)
